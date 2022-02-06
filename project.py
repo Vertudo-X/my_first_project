@@ -45,4 +45,3 @@ while True:
         get_by_code(code)
     if choice == '3':
         break
-       
